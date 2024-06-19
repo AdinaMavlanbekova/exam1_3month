@@ -1,0 +1,9 @@
+.block150 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.red {
+    background-color: red;
+}
